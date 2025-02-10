@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Department name="QA">
+  
+    <Employee id="101">
+      <OwnerName>SWARAJ</OwnerName>
+      <Address><AddressLine1>VBIgdT</AddressLine1></Address>
+      <Zip>500081</Zip>
+      <City>PUNE</City>
+      <State>MAHARASHTRA</State>
+      <PolicyNumber>a9f2ee93df</PolicyNumber>
+      <Skill>SELENIUM</Skill>
+    </Employee>
+    
+	<Employee id="102">
+      <OwnerName>KRISHNA</OwnerName>
+       <Address><AddressLine1>VBImgdT</AddressLine1></Address>
+      <Zip>500081</Zip>
+      <City>PUNE</City>
+      <State>MAHARASHTRA</State>
+      <PolicyNumber>e3861ba3e1</PolicyNumber>
+      <Skill>JAVA</Skill>
+    </Employee>
+    
+    <Contractor id="901">
+      <OwnerName>RAMESH</OwnerName>
+        <Address><AddressLine1>VBIhgdT</AddressLine1></Address>
+      <Zip>500081</Zip>
+     <City>PUNE</City>
+      <State>MAHARASHTRA</State>
+      <PolicyNumber>d4d9e2b42c</PolicyNumber>
+      <Skill>TESTING</Skill>
+    </Contractor>
+    
+	<Contractor id="902">
+      <OwnerName>PAVAN</OwnerName>
+        <Address><AddressLine1>VBmhgdIT</AddressLine1></Address>
+      <Zip>500081</Zip>
+      <City>PUNE</City>
+      <State>MAHARASHTRA</State>
+      <PolicyNumber>19cee8c72a</PolicyNumber>
+      <Skill>JAVA</Skill>
+    </Contractor>
+    
+    <Contractor id="927">
+      <OwnerName>ROHIT</OwnerName>
+        <Address><AddressLine1>VBImgdT</AddressLine1></Address>
+      <Zip>500081</Zip>
+      <City>PUNE</City>
+      <State>MAHARASHTRA</State>
+      <Skill>PYTHON</Skill>
+    </Contractor>
+    
+     <Manager id="907">
+      <OwnerName>SAKSHI</OwnerName>
+      <Address><AddressLine1>VBIgfT</AddressLine1></Address>
+      <Zip>500081</Zip>
+      <City>PUNE</City>
+      <State>MAHARASHTRA</State>
+      <PolicyNumber>0cb9f60ff3</PolicyNumber>
+      <Skill>PYTHON</Skill>
+    </Manager>
+    
+     <Manager id="904">
+      <OwnerName>RAKSHITA</OwnerName>
+       <Address><AddressLine1>VBIgdTc</AddressLine1></Address>
+      <Zip>444444</Zip>
+      <City>CHENNAI</City>
+      <State>TAMILNADU</State>
+      <PolicyNumber>e741fd93a1</PolicyNumber>
+      <Skill>PYTHON</Skill>
+    </Manager>
+    
+  </Department>
